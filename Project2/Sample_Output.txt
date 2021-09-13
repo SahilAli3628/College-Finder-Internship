@@ -1,0 +1,32 @@
+################### WELCOME!!! ###################
+
+
+Player 1, enter your name: John
+Player 2, enter your name: Jake
+Type Rock/Paper/Scissors: Rock
+Type Rock/Paper/Scissors: Rock
+It is a draw
+Goodbye!
+
+################### WELCOME!!! ###################
+
+
+Player 1, enter your name: John
+Player 2, enter your name: Jake
+Type Rock/Paper/Scissors: Rock
+Type Rock/Paper/Scissors: Paper
+Jake won!
+Goodbye!
+
+################### WELCOME!!! ###################
+
+
+Player 1, enter your name: John
+Player 2, enter your name: Jake
+Type Rock/Paper/Scissors: Scissors
+Type Rock/Paper/Scissors: paper
+John won!
+Goodbye!
+
+
+Similarly the program checks for all the cases
