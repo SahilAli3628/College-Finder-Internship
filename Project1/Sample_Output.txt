@@ -1,0 +1,24 @@
+Enter the name of the student: Sahil
+Enter the standard: 12
+Enter the division: A
+Enter the roll number: 47
+Enter the marks for Physics (out of 100): 93
+Enter the marks for Chemistry (out of 100): 75
+Enter the marks for Mathematics (out of 100): 96
+
+
+############### STUDENT PORTFOLIO ################
+
+	Name:		 Sahil
+	Class:		 12 A
+	Roll No.:	 47
+
+
+############### SUBJECTS and MARKS ###############
+
+	Physics:	 93
+	Chemistry:	 75
+	Mathematics:	 96
+
+Total Percentage =  88.0
+
