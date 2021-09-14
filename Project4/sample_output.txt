@@ -1,0 +1,104 @@
+case 1 (addition):
+Actions that can be performed:
+
+Addition	 --> +
+Subtraction	 --> -
+Multiplication	 --> *
+Division	 --> /
+Finding only quotient --> //
+Finding only remainder--> % 
+
+Sample Equation: 12 + 180
+ 
+Enter your equation: 120 + 60
+The sum of 120 and 60 is 180
+#################################################
+case 2 (subtraction):
+Actions that can be performed:
+
+Addition	 --> +
+Subtraction	 --> -
+Multiplication	 --> *
+Division	 --> /
+Finding only quotient --> //
+Finding only remainder--> % 
+
+Sample Equation: 12 + 180
+ 
+Enter your equation: 125 - 80      
+The difference of 125 and 80 is 45
+#################################################
+case 3 (multiplication):
+Actions that can be performed:
+
+Addition	 --> +
+Subtraction	 --> -
+Multiplication	 --> *
+Division	 --> /
+Finding only quotient --> //
+Finding only remainder--> % 
+
+Sample Equation: 12 + 180
+ 
+Enter your equation: 125 * 80
+The product of 125 and 80 is 10000
+#################################################
+case 4 (division):
+Actions that can be performed:
+
+Addition	 --> +
+Subtraction	 --> -
+Multiplication	 --> *
+Division	 --> /
+Finding only quotient --> //
+Finding only remainder--> % 
+
+Sample Equation: 12 + 180
+ 
+Enter your equation: 125 / 13
+The result of 125 divided by 13 is 9.615384615384615
+#################################################
+case 5 (quotient):
+Actions that can be performed:
+
+Addition	 --> +
+Subtraction	 --> -
+Multiplication	 --> *
+Division	 --> /
+Finding only quotient --> //
+Finding only remainder--> % 
+
+Sample Equation: 12 + 180
+ 
+Enter your equation: 125 // 13
+The quotient of 125 divided by 13 is 9
+#################################################
+case 6 (remainder):
+Actions that can be performed:
+
+Addition	 --> +
+Subtraction	 --> -
+Multiplication	 --> *
+Division	 --> /
+Finding only quotient --> //
+Finding only remainder--> % 
+
+Sample Equation: 12 + 180
+ 
+Enter your equation: 125 % 13
+The remainder of 125 divided by 13 is 8
+#################################################
+case 7 (invalid input):
+Actions that can be performed:
+
+Addition	 --> +
+Subtraction	 --> -
+Multiplication	 --> *
+Division	 --> /
+Finding only quotient --> //
+Finding only remainder--> % 
+
+Sample Equation: 12 + 180
+ 
+Enter your equation: 1 m 5
+Invalid input! Please refer the list of actions and sample equation
