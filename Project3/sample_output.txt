@@ -1,0 +1,45 @@
+Sample Output 1:
+Enter the number that you want the multiplication table of: 18
+Upto which number you want the tables to go? 13
+ 
+########## Simple Multiplication Table ###########
+18 x 1 = 18
+18 x 2 = 36
+18 x 3 = 54
+18 x 4 = 72
+18 x 5 = 90
+18 x 6 = 108
+18 x 7 = 126
+18 x 8 = 144
+18 x 9 = 162
+18 x 10 = 180
+18 x 11 = 198
+18 x 12 = 216
+18 x 13 = 234
+###################### END #######################
+
+
+Sample Output 2:
+Enter the number that you want the multiplication table of: 9346
+Upto which number you want the tables to go? 15
+ 
+########## Simple Multiplication Table ###########
+9346 x 1 = 9346
+9346 x 2 = 18692
+9346 x 3 = 28038
+9346 x 4 = 37384
+9346 x 5 = 46730
+9346 x 6 = 56076
+9346 x 7 = 65422
+9346 x 8 = 74768
+9346 x 9 = 84114
+9346 x 10 = 93460
+9346 x 11 = 102806
+9346 x 12 = 112152
+9346 x 13 = 121498
+9346 x 14 = 130844
+9346 x 15 = 140190
+###################### END #######################
+
+
+
